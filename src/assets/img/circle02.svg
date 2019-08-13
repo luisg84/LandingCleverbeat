@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="223" viewBox="0 0 223 223">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:rgba(85,142,217,.41);opacity:.15}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h223v223H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Componente_10_2" class="cls-2" data-name="Componente 10 – 2">
+        <circle id="Elipse_29" cx="111.5" cy="111.5" r="111.5" class="cls-3" data-name="Elipse 29"/>
+    </g>
+</svg>

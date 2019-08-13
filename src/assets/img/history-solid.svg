@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124.718" height="124.718" viewBox="0 0 124.718 124.718">
+    <defs>
+        <style>
+            .cls-1{fill:#4edfe6}.cls-2{filter:url(#history-solid)}
+        </style>
+        <filter id="history-solid" width="124.718" height="124.718" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur" stdDeviation="13.5"/>
+            <feFlood flood-color="#4edfe6"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g class="cls-2">
+        <path id="history-solid-2" d="M51.718 29.818a21.86 21.86 0 0 1-35.578 17.06 2.114 2.114 0 0 1-.162-3.138l.993-.993a2.119 2.119 0 0 1 2.811-.175 16.219 16.219 0 1 0-1.035-24.53l4.474 4.474a1.41 1.41 0 0 1-1 2.407H9.41A1.41 1.41 0 0 1 8 23.513V10.7a1.41 1.41 0 0 1 2.407-1l4.352 4.352a21.859 21.859 0 0 1 36.959 15.766zm-15.946 6.944l.866-1.113a2.115 2.115 0 0 0-.371-2.969l-3.587-2.79v-9.2a2.115 2.115 0 0 0-2.115-2.115h-1.41a2.115 2.115 0 0 0-2.115 2.115v11.959l5.76 4.484a2.115 2.115 0 0 0 2.972-.371z" class="cls-1" data-name="history-solid" transform="translate(32.5 22.5)"/>
+    </g>
+</svg>

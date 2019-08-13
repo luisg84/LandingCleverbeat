@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118.614" height="113.913" viewBox="0 0 118.614 113.913">
+    <defs>
+        <style>
+            .cls-1{fill:#516cf0}.cls-2{filter:url(#heart-solid)}
+        </style>
+        <filter id="heart-solid" width="118.614" height="113.913" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur" stdDeviation="13.5"/>
+            <feFlood flood-color="#516cf0"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g class="cls-2">
+        <path id="heart-solid-2" d="M33.951 34.217a10.046 10.046 0 0 0-13.708 1L18.8 36.708l-1.447-1.491a10.046 10.046 0 0 0-13.708-1 10.549 10.549 0 0 0-.732 15.273l14.215 14.679a2.3 2.3 0 0 0 3.328 0L34.671 49.49a10.542 10.542 0 0 0-.72-15.273z" class="cls-1" data-name="heart-solid" transform="translate(40.51 -1.47)"/>
+    </g>
+</svg>

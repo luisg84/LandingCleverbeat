@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101.423" height="88.745" viewBox="0 0 101.423 88.745">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#558ed9}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h101.423v88.745H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="heart-solid" class="cls-2">
+        <path id="heart-solid-2" d="M91.566 38.035c-10.855-9.251-27-7.587-36.963 2.694L50.7 44.75l-3.9-4.021c-9.946-10.281-26.11-11.945-36.965-2.694a28.444 28.444 0 0 0-1.961 41.182L46.2 118.8a6.21 6.21 0 0 0 8.973 0l38.33-39.578a28.426 28.426 0 0 0-1.941-41.183z" class="cls-3" data-name="heart-solid" transform="translate(.012 -31.967)"/>
+    </g>
+</svg>

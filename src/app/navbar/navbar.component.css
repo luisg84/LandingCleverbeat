@@ -1,0 +1,34 @@
+.logo-sm {
+    width: 8em;
+    color: rgb(255, 255, 255);
+}
+
+.mont-thin {
+    font-family: montserrat-thin;
+}
+
+
+/* .navbar {
+    position: fixed;
+    top: 0;
+    z-index: 4;
+} */
+
+.bg {
+    background: #ffffff;
+}
+
+.rigthp {
+    right: 0;
+}
+
+.lefthp {
+    left: 0;
+}
+
+
+/* .navbar ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+} */

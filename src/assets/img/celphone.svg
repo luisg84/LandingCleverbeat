@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="717.547" height="1152.013" viewBox="0 0 717.547 1152.013">
+    <defs>
+        <style>
+            .cls-1,.cls-17,.cls-20{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:url(#linear-gradient)}.cls-4{fill:url(#linear-gradient-2)}.cls-5{fill:url(#linear-gradient-3)}.cls-6{fill:url(#linear-gradient-4)}.cls-7{fill:url(#linear-gradient-5)}.cls-8{fill:url(#linear-gradient-12)}.cls-12,.cls-9{fill:#f3f3f3}.cls-10,.cls-14,.cls-15,.cls-19,.cls-22{fill:#fff}.cls-11{fill:url(#linear-gradient-14)}.cls-12{stroke:#f9f8f8}.cls-13{fill:#e2e2e2}.cls-14{font-size:12px;font-family:Helvetica}.cls-15,.cls-16{fill-rule:evenodd}.cls-16{fill:rgba(201,201,201,.5)}.cls-17{stroke:#e2e2e2;opacity:.4}.cls-18{fill:rgba(255,255,255,0)}.cls-19{font-size:29px;font-family:ArialRoundedMTBold,Arial Rounded MT Bold}.cls-20{stroke:#fff;stroke-width:3px}.cls-21{fill:#d3d3d3}.cls-22,.cls-23{font-size:11px;font-family:Montserrat-Medium,Montserrat;font-weight:500}.cls-23{fill:#717171;font-size:18px}.cls-24{fill:url(#linear-gradient-15)}.cls-25{stroke:none}.cls-26{filter:url(#heart-solid)}.cls-27{filter:url(#Rectángulo_169)}.cls-28{filter:url(#Case)}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h717.547v1152.013H0z" class="cls-1"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#e3e3e3"/>
+        </linearGradient>
+        <filter id="Case" width="717.547" height="1152.013" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="49.5"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <linearGradient id="linear-gradient-2" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f6f6f6"/>
+            <stop offset="1" stop-color="#ececec"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#f3f3f3"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-4" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#e5e5e5"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-5" x1="1" x2="0" y1=".377" y2=".377" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+            <stop offset=".322" stop-color="#fdfdfd" stop-opacity="0"/>
+            <stop offset="1" stop-color="#dadada"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-12" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f3f3f3"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-14" x1="1.449" x2="-.175" y1="-.431" y2="1.374" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#516cf0"/>
+            <stop offset="1" stop-color="#04edf6"/>
+        </linearGradient>
+        <filter id="Rectángulo_169" width="368.846" height="214.745" x="176.339" y="450.826" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur result="blur-2" stdDeviation="28.5"/>
+            <feFlood flood-color="#51c0f0"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <linearGradient id="linear-gradient-15" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#51c0f0"/>
+            <stop offset="1" stop-color="#4edfe6"/>
+        </linearGradient>
+        <filter id="heart-solid" width="203.6" height="195.025" x="258.962" y="644.724" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur-3" stdDeviation="22.5"/>
+            <feFlood flood-color="#4edfe6" flood-opacity=".725"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Componente_12_1" class="cls-2" data-name="Componente 12 – 1">
+        <g id="iPhone_X_-_Light" data-name="iPhone X - Light" transform="translate(145.517 148.5)">
+            <g class="cls-28" transform="translate(-145.52 -148.5)">
+                <path id="Case-2" d="M56.669 0h307.209a56.669 56.669 0 0 1 56.669 56.669v741.675a56.669 56.669 0 0 1-56.669 56.669H56.669A56.669 56.669 0 0 1 0 798.344V56.669A56.669 56.669 0 0 1 56.669 0z" class="cls-3" data-name="Case" transform="translate(148.5 148.5)"/>
+            </g>
+            <path id="Bezel" d="M46.727 0h311.186a46.727 46.727 0 0 1 46.727 46.727v745.652a46.727 46.727 0 0 1-46.727 46.727H46.727A46.727 46.727 0 0 1 0 792.379V46.727A46.727 46.727 0 0 1 46.727 0z" class="cls-4" transform="translate(10.936 7.954)"/>
+            <path id="Glass" d="M44.183 0h312.3a44.069 44.069 0 0 1 44.183 43.954v747.221a44.069 44.069 0 0 1-44.183 43.954h-312.3A44.069 44.069 0 0 1 0 791.175V43.954A44.069 44.069 0 0 1 44.183 0z" class="cls-5" transform="translate(12.925 9.942)"/>
+            <g id="Button" transform="translate(422.536 198.84)">
+                <g id="Grupo_39" data-name="Grupo 39">
+                    <path id="Rectángulo_21" d="M0 0h2.971a2 2 0 0 1 2 2v91.443a2 2 0 0 1-2 2H0V0z" class="cls-6" data-name="Rectángulo 21"/>
+                    <path id="Rectángulo_101" d="M0 0h2.971a2 2 0 0 1 2 2v91.443a2 2 0 0 1-2 2H0V0z" class="cls-7" data-name="Rectángulo 101"/>
+                </g>
+            </g>
+            <g id="Button-2" data-name="Button" transform="translate(0 178.956)">
+                <path id="Rectángulo_28" d="M2 0h2.971v59.652H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z" class="cls-6" data-name="Rectángulo 28"/>
+                <path id="Rectángulo_103" d="M0 0h2.971a2 2 0 0 1 2 2v55.652a2 2 0 0 1-2 2H0V0z" class="cls-7" data-name="Rectángulo 103" transform="rotate(-180 2.486 29.826)"/>
+            </g>
+            <g id="Button-3" data-name="Button" transform="translate(0 256.504)">
+                <path id="Rectángulo_29" d="M2 0h2.971v59.652H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z" class="cls-6" data-name="Rectángulo 29"/>
+                <path id="Rectángulo_104" d="M0 0h2.971a2 2 0 0 1 2 2v55.652a2 2 0 0 1-2 2H0V0z" class="cls-7" data-name="Rectángulo 104" transform="rotate(-180 2.486 29.826)"/>
+            </g>
+            <g id="Button-4" data-name="Button" transform="translate(0 116.322)">
+                <path id="Rectángulo_31" d="M1 0h3.971v31.814H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1z" class="cls-6" data-name="Rectángulo 31"/>
+                <path id="Rectángulo_149" d="M0 0h3.971a1 1 0 0 1 1 1v29.814a1 1 0 0 1-1 1H0V0z" class="cls-7" data-name="Rectángulo 149" transform="rotate(-180 2.486 15.907)"/>
+            </g>
+            <g id="Camera" transform="translate(256.504 24.855)">
+                <ellipse id="Elipse_7" cx="7.457" cy="7.457" class="cls-8" data-name="Elipse 7" rx="7.457" ry="7.457"/>
+                <circle id="Elipse_8" cx="6.462" cy="6.462" r="6.462" class="cls-5" data-name="Elipse 8" transform="translate(.994 .994)"/>
+                <ellipse id="Elipse_10" cx="4.474" cy="4.474" class="cls-9" data-name="Elipse 10" rx="4.474" ry="4.474" transform="translate(2.983 2.983)"/>
+                <ellipse id="Elipse_9" cx="1.491" cy=".994" class="cls-10" data-name="Elipse 9" rx="1.491" ry=".994" transform="translate(5.965 2.983)"/>
+            </g>
+            <path id="Sustracción_14" d="M372.825 363.382H0V37.78A37.823 37.823 0 0 1 37.779 0h40.03a6.771 6.771 0 0 1 5.2 5.141c.162.712.331 1.64.526 2.715v.066c.379 2.085.851 4.68 1.551 7.293.91 3.4 4.927 14.5 18.422 14.642 5.036.053 36.8.064 62.558.064 47.364 0 101.667-.037 104.179-.064 13.5-.139 17.513-11.242 18.422-14.642.706-2.635 1.179-5.236 1.558-7.326l.008-.045c.194-1.07.362-1.993.523-2.7A6.556 6.556 0 0 1 295.921 0h39.124a37.823 37.823 0 0 1 37.779 37.78v325.6z" class="cls-11" data-name="Sustracción 14" transform="translate(27.837 16.901)"/>
+            <path id="Ear_Piece" d="M3.98.5h54.681a3.48 3.48 0 1 1 0 6.959H3.98A3.48 3.48 0 1 1 3.98.5z" class="cls-12" data-name="Ear Piece" transform="translate(181.936 28.829)"/>
+            <path id="Home" d="M2.486 0h124.275a2.486 2.486 0 0 1 0 4.971H2.486a2.486 2.486 0 0 1 0-4.971z" class="cls-13" transform="translate(149.13 814.251)"/>
+        </g>
+        <g id="Status_Bar_-_Light" data-name="Status Bar - Light" transform="translate(174.349 170.373)">
+            <text id="_9:41_AM" class="cls-14" data-name="9:41 AM" transform="translate(46.196 25.341)">
+                <tspan x="-11.678" y="0">9:41</tspan>
+            </text>
+            <path id="Wifi" d="M70.951 7.348a9.716 9.716 0 0 1 6.292 2.292l1.17-1.263A11.112 11.112 0 0 0 63.5 8.369l1.167 1.265a9.715 9.715 0 0 1 6.284-2.285zm0 3.645a5.9 5.9 0 0 1 3.783 1.358l1.237-1.336a7.677 7.677 0 0 0-10.034-.005l1.235 1.338a5.9 5.9 0 0 1 3.778-1.354zm2.549 2.695a3.9 3.9 0 0 0-5.088 0l2.542 2.753 2.545-2.75z" class="cls-15" transform="translate(250.668 11.401)"/>
+            <path id="Mobile-Signal" d="M13.987.573a.585.585 0 0 1 .59-.573h1.735a.577.577 0 0 1 .59.573v9.792a.585.585 0 0 1-.59.573h-1.735a.577.577 0 0 1-.59-.573zM9.325 3.458a.588.588 0 0 1 .59-.58h1.735a.59.59 0 0 1 .59.58v6.9a.588.588 0 0 1-.59.58H9.915a.59.59 0 0 1-.59-.58zm-4.662 2.3a.585.585 0 0 1 .59-.573h1.734a.576.576 0 0 1 .59.573v4.611a.585.585 0 0 1-.59.573H5.252a.576.576 0 0 1-.59-.573zM0 8.054a.583.583 0 0 1 .59-.57h1.734a.576.576 0 0 1 .59.57v2.313a.583.583 0 0 1-.59.57H.59a.576.576 0 0 1-.59-.57z" class="cls-15" transform="translate(291.301 16.901)"/>
+            <g id="Battery" transform="translate(335.733 18.071)">
+                <path id="Tip" d="M23 3.5a1.8 1.8 0 0 1 1.281 1.755A1.8 1.8 0 0 1 23 7.009z" class="cls-16" transform="translate(-3.027 -.647)"/>
+                <rect id="Fill" width="14.9" height="5.707" class="cls-10" rx="1" transform="translate(1.902 1.902)"/>
+                <g id="Outline" class="cls-17">
+                    <rect width="19.022" height="9.511" class="cls-25" rx="2.5"/>
+                    <rect width="18.022" height="8.511" x=".5" y=".5" class="cls-1" rx="2"/>
+                </g>
+            </g>
+            <path id="Sustracción_12" d="M372.826 43.745H0V38A37.968 37.968 0 0 1 38 0h39.5a6.14 6.14 0 0 1 3.582 2.06A7.3 7.3 0 0 1 82.7 5.14c.163.72.335 1.662.533 2.752.38 2.094.853 4.7 1.556 7.323a22.067 22.067 0 0 0 4.734 8.775 17.4 17.4 0 0 0 5.471 4.087 19.549 19.549 0 0 0 8.216 1.781c5.451.056 41.409.064 62.357.064 46.379 0 101.8-.038 104.379-.064a19.548 19.548 0 0 0 8.216-1.781 17.4 17.4 0 0 0 5.471-4.087 22.08 22.08 0 0 0 4.735-8.775c.7-2.631 1.176-5.234 1.556-7.326.2-1.089.369-2.03.532-2.749a7.446 7.446 0 0 1 1.552-3.079 5.9 5.9 0 0 1 3.6-2.06h39.218a37.968 37.968 0 0 1 38 38v5.744z" class="cls-18" data-name="Sustracción 12"/>
+        </g>
+        <g id="Grupo_40" data-name="Grupo 40" transform="translate(280.729 224.059)">
+            <g id="Grupo_1" data-name="Grupo 1">
+                <text id="cleverbeat" class="cls-19" transform="translate(0 27)">
+                    <tspan x="0" y="0">cleverbeat</tspan>
+                </text>
+                <ellipse id="Elipse_17" cx="2.089" cy="2.089" class="cls-10" data-name="Elipse 17" rx="2.089" ry="2.089" transform="rotate(-27.57 73.754 -222.543)"/>
+                <ellipse id="Elipse_18" cx="2.089" cy="2.089" class="cls-10" data-name="Elipse 18" rx="2.089" ry="2.089" transform="rotate(-27.57 77.236 -236.735)"/>
+                <ellipse id="Elipse_19" cx="2.089" cy="2.089" class="cls-10" data-name="Elipse 19" rx="2.089" ry="2.089" transform="rotate(-27.57 80.718 -250.927)"/>
+                <ellipse id="Elipse_20" cx="2.089" cy="2.089" class="cls-10" data-name="Elipse 20" rx="2.089" ry="2.089" transform="rotate(-27.59 84.213 -264.997)"/>
+            </g>
+        </g>
+        <g id="Grupo_43" data-name="Grupo 43" transform="translate(302.601 274.764)">
+            <circle id="Elipse_22" cx="49.794" cy="49.794" r="49.794" class="cls-10" data-name="Elipse 22" transform="translate(6.842 6.082)"/>
+            <g id="Elipse_23" class="cls-20" data-name="Elipse 23">
+                <circle cx="56.255" cy="56.255" r="56.255" class="cls-25"/>
+                <circle cx="56.255" cy="56.255" r="54.755" class="cls-1"/>
+            </g>
+            <path id="user-solid" d="M32.1 36.684a18.342 18.342 0 1 0-18.344-18.342A18.34 18.34 0 0 0 32.1 36.684zm12.839 4.585h-2.395a24.944 24.944 0 0 1-20.892 0h-2.393A19.264 19.264 0 0 0 0 60.528v5.961a6.88 6.88 0 0 0 6.878 6.878h50.44a6.88 6.88 0 0 0 6.882-6.878v-5.961a19.264 19.264 0 0 0-19.262-19.259z" class="cls-21" transform="translate(24.327 19.519)"/>
+            <text id="Nombre_" class="cls-22" data-name="Nombre" transform="translate(22.806 129.592)">
+                <tspan x="0" y="0">Nombre</tspan>
+            </text>
+            <text id="Edad_21" class="cls-22" data-name="Edad 21" transform="translate(22.806 155.439)">
+                <tspan x="0" y="0">Edad 21</tspan>
+            </text>
+            <text id="Peso_80kg" class="cls-22" data-name="Peso 80kg" transform="translate(15.964 171.404)">
+                <tspan x="0" y="0">Peso 80kg</tspan>
+            </text>
+        </g>
+        <g class="cls-27">
+            <rect id="Rectángulo_169-2" width="197.846" height="43.745" class="cls-10" data-name="Rectángulo 169" rx="20" transform="translate(261.84 521.33)"/>
+        </g>
+        <text id="Monitoreo" class="cls-23" transform="translate(308.566 548.268)">
+            <tspan x="0" y="0">Monitoreo</tspan>
+        </text>
+        <g class="cls-26">
+            <path id="heart-solid-2" d="M61.929 36.071c-7.342-6.257-18.262-5.131-25 1.822l-2.639 2.72-2.639-2.72c-6.726-6.954-17.659-8.079-25-1.822a19.239 19.239 0 0 0-1.329 27.855L31.247 90.7a4.2 4.2 0 0 0 6.069 0l25.925-26.77a19.227 19.227 0 0 0-1.312-27.859z" class="cls-24" data-name="heart-solid" transform="translate(326.47 678.26)"/>
+        </g>
+        <text id="Conectar_" class="cls-23" data-name="Conectar" transform="translate(312.543 801.789)">
+            <tspan x="0" y="0">Conectar</tspan>
+        </text>
+    </g>
+</svg>

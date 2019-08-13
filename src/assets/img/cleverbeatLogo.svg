@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="247" height="55" viewBox="0 0 247 55">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3,.cls-4{fill:#558ed9}.cls-3{font-size:48px;font-family:ArialRoundedMTBold,Arial Rounded MT Bold}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h247v55H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Componente" class="cls-2">
+        <text id="cleverbeat" class="cls-3" transform="translate(0 45)">
+            <tspan x="0" y="0">cleverbeat</tspan>
+        </text>
+        <ellipse id="Elipse_17" cx="3.207" cy="3.207" class="cls-4" data-name="Elipse 17" rx="3.207" ry="3.207" transform="rotate(-27.57 113.233 -341.662)"/>
+        <ellipse id="Elipse_18" cx="3.207" cy="3.207" class="cls-4" data-name="Elipse 18" rx="3.207" ry="3.207" transform="rotate(-27.57 118.579 -363.45)"/>
+        <ellipse id="Elipse_19" cx="3.207" cy="3.207" class="cls-4" data-name="Elipse 19" rx="3.207" ry="3.207" transform="rotate(-27.57 123.925 -385.239)"/>
+        <ellipse id="Elipse_20" cx="3.207" cy="3.207" class="cls-4" data-name="Elipse 20" rx="3.207" ry="3.207" transform="rotate(-27.59 129.29 -406.838)"/>
+    </g>
+</svg>

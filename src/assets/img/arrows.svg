@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.5" height="50.534" viewBox="0 0 56.5 50.534">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{stroke:#558ed9;stroke-linecap:round;stroke-linejoin:round;stroke-width:7px}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h56.5v50.534H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Componente_11_1" class="cls-2" data-name="Componente 11 – 1">
+        <path id="Unión_1" d="M49.5 0L24.75 21.534zM0 0l24.75 21.534z" class="cls-3" data-name="Unión 1" transform="translate(3.5 25.5)"/>
+        <path id="Unión_2" d="M49.5 0L24.75 21.534zM0 0l24.75 21.534z" class="cls-3" data-name="Unión 2" transform="translate(3.5 3.5)"/>
+    </g>
+</svg>

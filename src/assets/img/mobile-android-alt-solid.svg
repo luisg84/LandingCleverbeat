@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.32" height="119.913" viewBox="0 0 105.32 119.913">
+    <defs>
+        <style>
+            .cls-1{fill:#5d4ee6}.cls-2{filter:url(#mobile-android-alt-solid)}
+        </style>
+        <filter id="mobile-android-alt-solid" width="105.32" height="119.913" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="8"/>
+            <feGaussianBlur result="blur" stdDeviation="13.5"/>
+            <feFlood flood-color="#5d4ee6"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g class="cls-2">
+        <path id="mobile-android-alt-solid-2" d="M20.672 0H3.648A3.649 3.649 0 0 0 0 3.648v31.617a3.649 3.649 0 0 0 3.648 3.648h17.024a3.649 3.649 0 0 0 3.648-3.648V3.648A3.649 3.649 0 0 0 20.672 0zm-4.864 34.353a.915.915 0 0 1-.912.912H9.424a.915.915 0 0 1-.912-.912v-.608a.915.915 0 0 1 .912-.912H14.9a.915.915 0 0 1 .912.912zm4.864-6.08a.915.915 0 0 1-.912.912H4.56a.915.915 0 0 1-.912-.912V4.56a.915.915 0 0 1 .912-.912h15.2a.915.915 0 0 1 .912.912z" class="cls-1" data-name="mobile-android-alt-solid" transform="translate(40.5 32.5)"/>
+    </g>
+</svg>

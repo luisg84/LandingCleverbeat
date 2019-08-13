@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.881" height="112.929" viewBox="0 0 105.881 112.929">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#558ed9}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h105.882v112.929H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="shield-alt-solid" class="cls-2">
+        <path id="shield-alt-solid-2" d="M115.374 18.483L73.022.836a10.621 10.621 0 0 0-8.14 0L22.529 18.483A10.577 10.577 0 0 0 16 28.255c0 43.786 25.257 74.051 48.86 83.889a10.621 10.621 0 0 0 8.14 0c18.9-7.875 48.882-35.073 48.882-83.889a10.591 10.591 0 0 0-6.508-9.772zM68.963 98.467l-.022-84.044 38.8 16.169c-.728 33.4-18.11 57.6-38.779 67.875z" class="cls-3" data-name="shield-alt-solid" transform="translate(-16 -.025)"/>
+    </g>
+</svg>
