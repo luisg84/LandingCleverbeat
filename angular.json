@@ -29,8 +29,6 @@
                             "./node_modules/typeface-montserrat/index.css",
                             "./node_modules/animate.css/animate.css",
                             "src/styles.css"
-
-
                         ],
                         "scripts": [
                             "./node_modules/jquery/dist/jquery.min.js",
