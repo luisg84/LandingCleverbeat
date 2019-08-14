@@ -105,6 +105,17 @@
     margin-top: 5em;
 }
 
+.comp {
+    /* border-style: solid; */
+    width: 11em;
+}
+
+.desc {
+    color: #ffffff;
+    font-family: montserrat-thin;
+    font-size: 1.2em;
+}
+
 .tamicon {
     width: 5em;
 }
@@ -197,10 +208,11 @@
     color: #6c6e71;
 }
 
-.caja{
-    
+.caja {
     position: relative;
     top: 70%;
     right: 30%;
 }
+
+
 /* seccion5*/
