@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Pacifico;
+    src: url(../fonts/Pacifico.ttf) format("TrueType");
+}
+
+
+/* Montserrat */
+
+@font-face {
+    font-family: montserrat;
+    src: url(../fonts/Montserrat-Regular.ttf) format("TrueType");
+}
+
+@font-face {
+    font-family: montserrat-bold;
+    src: url(../fonts/Montserrat-Bold.ttf) format("TrueType");
+}
+
+@font-face {
+    font-family: montserrat-black;
+    src: url(../fonts/Montserrat-Black.ttf) format("TrueType");
+}
+
+@font-face {
+    font-family: montserrat-light;
+    src: url(../fonts/Montserrat-Light.ttf) format("TrueType");
+}
+
+@font-face {
+    font-family: montserrat-thin;
+    src: url(../fonts/Montserrat-Thin.ttf) format("TrueType");
+}
+
+
+/* Montserrat */
