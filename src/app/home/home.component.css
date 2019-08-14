@@ -197,5 +197,10 @@
     color: #6c6e71;
 }
 
-
+.caja{
+    
+    position: relative;
+    top: 70%;
+    right: 30%;
+}
 /* seccion5*/
